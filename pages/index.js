@@ -15,7 +15,6 @@ const Mensajes=[
     "urlImagen":"./images/icons8-meat-16.png",
     "NombreProducto":"Carne"
   }
-
 ]
 export default function Home() {
   return (
