@@ -1,8 +1,9 @@
 import styles from '../styles/Home.module.css'
-const BotonAlerta = () => {
+const BotonAlerta = ({Url,Nombre}) => {
     return ( 
-        <div>
-            <button className={styles.button} type="button" onClick={()=>alert("Hola")}>Aqui hay una alerta</button>
+        <div className={styles.card}>
+            <img src={Url}></img>
+            <h2>{Nombre}</h2>
         </div>
      );
 }
