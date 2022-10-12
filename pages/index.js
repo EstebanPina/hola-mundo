@@ -5,15 +5,15 @@ import styles from '../styles/Home.module.css'
 const Mensajes=[
   {
     "urlImagen":"./images/icons8-apple-48.png",
-    "NombreProducto":"Bagel"
+    "NombreProducto":"Manzana"
   },
   {
     "urlImagen":"./images/icons8-bagel-48.png",
-    "NombreProducto":"Carne"
+    "NombreProducto":"Bagel"
   },
   {
     "urlImagen":"./images/icons8-meat-16.png",
-    "NombreProducto":"Manzana"
+    "NombreProducto":"Carne"
   }
 
 ]
